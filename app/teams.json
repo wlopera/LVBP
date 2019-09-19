@@ -1,0 +1,66 @@
+[
+    {
+        "Equipo": "Águilas del Zulia",
+        "Ciudad": "Maracaibo, Zulia",
+        "Estadio": "Luis Aparicio",
+        "Fundacion": "18 de noviembre de 1968",
+        "tituloLiga": "6",
+        "TituloCaribe": "2"
+    },
+    {
+        "Equipo": "Bravos de Margarita",
+        "Ciudad": "Porlamar, Nueva Esparta",
+        "Estadio": "Nueva Esparta",
+        "Fundacion": "12 de julio de 2007",
+        "tituloLiga": "0",
+        "TituloCaribe": "0"
+    },
+    {
+        "Equipo": "Cardenales de Lara",
+        "Ciudad": "Barquisimeto, Lara",
+        "Estadio": "Antonio Herrera Gutiérrez",
+        "Fundacion": "5 de noviembre de 1942",
+        "tituloLiga": "5",
+        "TituloCaribe": "0"
+    },
+    {
+        "Equipo": "Caribes de Anzoátegui",
+        "Ciudad": "Puerto La Cruz, Anzoátegui",
+        "Estadio": "Alfonso Carrasquel",
+        "Fundacion": "15 de julio de 1987",
+        "tituloLiga": "3",
+        "TituloCaribe": "0"
+    },
+    {
+        "Equipo": "Leones del Caracas",
+        "Ciudad": "Caracas, Distrito Capital",
+        "Estadio": "Universitario de Caracas",
+        "Fundacion": "7 de mayo de 1942",
+        "tituloLiga": "20",
+        "TituloCaribe": "2"
+    },
+    {
+        "Equipo": "Navegantes del Magallanes",
+        "Ciudad": "Valencia, Carabobo",
+        "Estadio": "José Bernardo Pérez",
+        "Fundacion": "26 de octubre de 1917",
+        "tituloLiga": "12",
+        "TituloCaribe": "2"
+    },
+    {
+        "Equipo": "Tiburones de La Guaira",
+        "Ciudad": "La Guaira, Vargas",
+        "Estadio": "Universitario de Caracas",
+        "Fundacion": "31 de octubre de 1962",
+        "tituloLiga": "7",
+        "TituloCaribe": "0"
+    },
+    {
+        "Equipo": "Tigres de Aragua",
+        "Ciudad": "Maracay, Aragua",
+        "Estadio": "José Pérez Colmenares",
+        "Fundacion": "15 de octubre de 1965",
+        "tituloLiga": "10",
+        "TituloCaribe": "1"
+    }
+]

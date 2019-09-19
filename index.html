@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="lvbpApp">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>lvbp</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js"></script>
+    <script src="/app/lvbpApp.js"></script>
+    <script src="/services/lvbpService.js"></script>
+    <script src="/controllers/lvbpController.js"></script>
+</head>
+
+<body ng-controller="lvbpController as vm">
+
+    <h1>LIGA BEISBOL PROFESIONAL DE VENEZUELA - ANGULAR JS</h1>
+    <hr />
+
+    <table >
+        <tr>
+            <th ng-repeat="header in vm.headers">
+                {{header}}
+            </th>
+        </tr>
+        <tr ng-repeat = "team in vm.teams">
+            <td>{{team.Equipo}}</td>
+            <td>{{team.Ciudad}}</td>
+            <td>{{team.Estadio}}</td>
+            <td>{{team.Fundacion}}</td>
+            <td>{{team.tituloLiga}}</td>
+            <td>{{team.TituloCaribe}}</td>
+        </tr>
+    </table>
+    
+    <br>
+</body>
+
+</html>
