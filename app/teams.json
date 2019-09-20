@@ -1,35 +1,11 @@
 [
     {
-        "Equipo": "Águilas del Zulia",
-        "Ciudad": "Maracaibo, Zulia",
-        "Estadio": "Luis Aparicio",
-        "Fundacion": "18 de noviembre de 1968",
-        "tituloLiga": "6",
+        "Equipo": "Navegantes del Magallanes",
+        "Ciudad": "Valencia, Carabobo",
+        "Estadio": "José Bernardo Pérez",
+        "Fundacion": "26 de octubre de 1917",
+        "tituloLiga": "12",
         "TituloCaribe": "2"
-    },
-    {
-        "Equipo": "Bravos de Margarita",
-        "Ciudad": "Porlamar, Nueva Esparta",
-        "Estadio": "Nueva Esparta",
-        "Fundacion": "12 de julio de 2007",
-        "tituloLiga": "0",
-        "TituloCaribe": "0"
-    },
-    {
-        "Equipo": "Cardenales de Lara",
-        "Ciudad": "Barquisimeto, Lara",
-        "Estadio": "Antonio Herrera Gutiérrez",
-        "Fundacion": "5 de noviembre de 1942",
-        "tituloLiga": "5",
-        "TituloCaribe": "0"
-    },
-    {
-        "Equipo": "Caribes de Anzoátegui",
-        "Ciudad": "Puerto La Cruz, Anzoátegui",
-        "Estadio": "Alfonso Carrasquel",
-        "Fundacion": "15 de julio de 1987",
-        "tituloLiga": "3",
-        "TituloCaribe": "0"
     },
     {
         "Equipo": "Leones del Caracas",
@@ -40,12 +16,12 @@
         "TituloCaribe": "2"
     },
     {
-        "Equipo": "Navegantes del Magallanes",
-        "Ciudad": "Valencia, Carabobo",
-        "Estadio": "José Bernardo Pérez",
-        "Fundacion": "26 de octubre de 1917",
-        "tituloLiga": "12",
-        "TituloCaribe": "2"
+        "Equipo": "Cardenales de Lara",
+        "Ciudad": "Barquisimeto, Lara",
+        "Estadio": "Antonio Herrera Gutiérrez",
+        "Fundacion": "5 de noviembre de 1942",
+        "tituloLiga": "5",
+        "TituloCaribe": "0"
     },
     {
         "Equipo": "Tiburones de La Guaira",
@@ -62,5 +38,29 @@
         "Fundacion": "15 de octubre de 1965",
         "tituloLiga": "10",
         "TituloCaribe": "1"
+    },
+    {
+        "Equipo": "Águilas del Zulia",
+        "Ciudad": "Maracaibo, Zulia",
+        "Estadio": "Luis Aparicio",
+        "Fundacion": "18 de noviembre de 1968",
+        "tituloLiga": "6",
+        "TituloCaribe": "2"
+    },
+    {
+        "Equipo": "Caribes de Anzoátegui",
+        "Ciudad": "Puerto La Cruz, Anzoátegui",
+        "Estadio": "Alfonso Carrasquel",
+        "Fundacion": "15 de julio de 1987",
+        "tituloLiga": "3",
+        "TituloCaribe": "0"
+    },
+    {
+        "Equipo": "Bravos de Margarita",
+        "Ciudad": "Porlamar, Nueva Esparta",
+        "Estadio": "Nueva Esparta",
+        "Fundacion": "12 de julio de 2007",
+        "tituloLiga": "0",
+        "TituloCaribe": "0"
     }
 ]

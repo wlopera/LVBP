@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+        <div>
+            <h1 class="text-primary">LIGA BEISBOL PROFESIONAL DE VENEZUELA - ANGULAR JS</h1>
+            <hr />
+
+            <table class="table table-striped">
+                <tr>
+                    <th ng-repeat="header in headers" class="text-center">
+                        {{header}}
+                    </th>
+                </tr>
+                <tr ng-repeat="team in teams">
+                    <td class="text-left">{{team.Equipo}}</td>
+                    <td class="text-left">{{team.Ciudad}}</td>
+                    <td class="text-left">{{team.Estadio}}</td>
+                    <td class="text-left">{{team.Fundacion}}</td>
+                    <td class="text-center">{{team.tituloLiga}}</td>
+                    <td class="text-center">{{team.TituloCaribe}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <p align="right">@wlopera - Panamá, Sep 2019</p>
+</div>
